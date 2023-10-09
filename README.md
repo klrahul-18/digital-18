@@ -1,3 +1,4 @@
+![logo](https://github.com/digital-18/digital-18/blob/main/Purple%20Gradient%20Digital%20Marketing%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Rahul Kumar</h1>
 <h3 align="center">A passionate Front End Developer from Patna.</h3>
 
